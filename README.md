@@ -1,4 +1,4 @@
-# human-activity-recognition
+# Human-Activity-Recognition
 
 Human Activity Recognition (HAR) is popular research area in computer vision and human-computer interaction. HAR aims to successfully classify different human activities based on a series of observations obtained from sensors that are affected by human movement. 
 

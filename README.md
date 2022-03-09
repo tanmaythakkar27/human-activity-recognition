@@ -7,3 +7,5 @@ Experiments were carried out with a group of 30 volunteers within an age bracket
 # Project Objective
 Using the readings from the sersons, I first built and compared the performance of different classification models used to predict the activites performed by the volunteers. Next, due to the large number of features, I implemented a feature selection process to eliminate redudant and irrelevant features while still maintaining high predictive performance. 
 
+The entire project report can be found in the **report** folder
+
